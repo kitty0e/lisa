@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(255, 235, 239);
+    font-family: 'Mukta', sans-serif;
+font-family: 'Pacifico', cursive;
+}
+.header_div
+{
+background: rgb(255, 235, 239) ;
+color:#4B371C rgb(255, 235, 239) ;
+
+}
+.main_div button
+{
+font-family: cursive;
+letter-spacing:1px;
+margin-top: 30px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #4B371C;
+    background: rgb(255, 235, 239);
+    font-size: 20px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
